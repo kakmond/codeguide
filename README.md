@@ -1,7 +1,7 @@
 # Writing good Java code
 *Read on for some essential pointers that can help you write cleaner, more maintainable Java code.*
 
-###Useful references:
+##Useful references:
 *Writing good Java code* : Strive to write clean, easily maintainable Java code [Link](http://www.ibm.com/developerworks/library/j-perry-writing-good-java-code/index.html).
 
 ##Best coding practices
