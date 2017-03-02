@@ -1,3 +1,5 @@
+# codeguide
+>By Wongsathorn Panichkurkul
 # Writing good Java code
 *Read on for some essential pointers that can help you write cleaner, more maintainable Java code.*
 
