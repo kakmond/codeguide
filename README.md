@@ -60,3 +60,7 @@ public void someMethod() {
   // Etc...
 }
 ```
+##Exercise
+Please following by **TODO**.</br>
+[Exercise 1](https://github.com/kakmond/codeguide/blob/master/src/practice/Person.java) </br>
+[Exercise 2](https://github.com/kakmond/codeguide/blob/master/src/practice/Student.java)
